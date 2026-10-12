@@ -60,12 +60,12 @@ professional portfolio.
 
 | Lab | Topic | Skills & Concepts |
 |-----|-------|-------------------|
-| L01 | [Real-World Computer Vision Applications](Labs/Comp%20Vision_L01_Exploring%20Applications.docx) | Automated recycling sorting, computer vision applications, social and operational impacts |
-| L02 | Image Processing Fundamentals | Image transformations, filtering, histograms, CLAHE, edge detection |
-| L03 | Classical Machine Learning for Computer Vision | HOG feature extraction, SVM, Random Forest, overfitting and model evaluation |
-| L04 | Chihuahua vs. Muffin Classification | Image classification and model evaluation |
-| L05 | Chihuahua vs. Muffin with CNN | Convolutional neural networks and image classification |
-| L06 | Object Detection & Segmentation | YOLO11, SAM 2, bounding boxes, segmentation masks, confidence thresholds |
+| L01 | [Real-World Computer Vision Applications](Labs/L01/) | Automated recycling sorting, computer vision applications, social and operational impacts |
+| L02 | [Image Processing Fundamentals](Labs/L02/) | Image transformations, filtering, histograms, CLAHE, edge detection |
+| L03 | [Classical Machine Learning for Computer Vision](Labs/L03_A_GrafNichelle_ITAI_1378%20(1).ipynb) | HOG feature extraction, SVM, Random Forest, overfitting and model evaluation |
+| L04 | [Chihuahua vs. Muffin Classification](Labs/L04_NichelleGraf_ITAI_1378.pdf) | Image classification and model evaluation |
+| L05 | [Chihuahua vs. Muffin with CNN](Labs/L05_NichelleGraf_ITAI_1378%20(1).pdf) | Convolutional neural networks and image classification |
+| L06 | [Object Detection & Segmentation](Labs/Lab_06_Detection_and_Segmentation_2026%20(1)%20(3).ipynb) | YOLO11, SAM 2, bounding boxes, segmentation masks, confidence thresholds |
 
 *Additional labs and documentation will be added as the semester progresses.*
 
